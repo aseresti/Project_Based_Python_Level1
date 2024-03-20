@@ -15,5 +15,10 @@ The project has the following structure:
 ## Project Output
 The output of the project demonstrates the frequency of winning outcomes when the contestant employs the strategy of switching doors across multiple simulations.
 
-
 ![Alt text](output.png)
+
+A dashboard was also developed in order to visualize the simulation. The dashboard was developed on streemlit and it takes the number of simulations that should be run for the simulation and outputs two charts of the chance of winning in case one switches the door or not.
+
+![Alt text](<Screen Shot 2024-03-20 at 4.10.18 PM.png>)
+
+
